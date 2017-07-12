@@ -7,5 +7,5 @@
 This is a small learning-project meant to become more comfortable with React.
 This app uses [WebMidi](https://www.npmjs.com/package/webmidi) and [React](https://facebook.github.io/react/) to visualize the keys pressed on a keyboard.
 
-This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app) and uses [react-alert](https://github.com/schiehll/react-alert) to show info and error messages.
 
